@@ -92,7 +92,7 @@ export default function App() {
       />
       <h2>{emojiMeaning}</h2>
 
-      <h3>Emojis we know:</h3>
+      <h3>Click on the food/beverage to find out it's name:</h3>
       {foodList.map(function (item) {
         return (
           <span
