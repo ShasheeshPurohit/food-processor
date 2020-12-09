@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 50%;
+}
+
+#foodItem {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+h3 {
+  margin-top: 2%;
+}
